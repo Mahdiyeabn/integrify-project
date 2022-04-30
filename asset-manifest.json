@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/integrify-project/static/css/main.85f4a68e.chunk.css",
+    "main.js": "/integrify-project/static/js/main.d3f35ed7.chunk.js",
+    "main.js.map": "/integrify-project/static/js/main.d3f35ed7.chunk.js.map",
+    "runtime-main.js": "/integrify-project/static/js/runtime-main.2d6b5fd5.js",
+    "runtime-main.js.map": "/integrify-project/static/js/runtime-main.2d6b5fd5.js.map",
+    "static/js/2.34e787cb.chunk.js": "/integrify-project/static/js/2.34e787cb.chunk.js",
+    "static/js/2.34e787cb.chunk.js.map": "/integrify-project/static/js/2.34e787cb.chunk.js.map",
+    "static/js/3.cc9bfc93.chunk.js": "/integrify-project/static/js/3.cc9bfc93.chunk.js",
+    "static/js/3.cc9bfc93.chunk.js.map": "/integrify-project/static/js/3.cc9bfc93.chunk.js.map",
+    "index.html": "/integrify-project/index.html",
+    "static/css/main.85f4a68e.chunk.css.map": "/integrify-project/static/css/main.85f4a68e.chunk.css.map",
+    "static/js/2.34e787cb.chunk.js.LICENSE.txt": "/integrify-project/static/js/2.34e787cb.chunk.js.LICENSE.txt",
+    "static/media/avat.d6353295.jpg": "/integrify-project/static/media/avat.d6353295.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6b5fd5.js",
+    "static/js/2.34e787cb.chunk.js",
+    "static/css/main.85f4a68e.chunk.css",
+    "static/js/main.d3f35ed7.chunk.js"
+  ]
+}
